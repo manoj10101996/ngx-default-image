@@ -1,0 +1,44 @@
+{
+  "name": "ngx-default-image",
+  "author": {
+    "name": "Manojkumar Muthukumar",
+    "email": "manoj1010196@gmail.com"
+  },
+  "description": "Custom / Default image loader",
+  "version": "0.0.3",
+  "peerDependencies": {
+    "@angular/common": "^9.1.9",
+    "@angular/core": "^9.1.9"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0"
+  },
+  "icon": "https://image.flaticon.com/icons/png/512/1042/1042349.png",
+  "keywords": [
+    "angular",
+    "ngx",
+    "ng9",
+    "img",
+    "image",
+    "default-image",
+    "broken-image",
+    "ngx-default-image",
+    "manoj10101996",
+    "uiconfig"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manoj10101996/ngx-default-image"
+  },
+  "main": "bundles/ngx-default-image.umd.js",
+  "module": "fesm5/ngx-default-image.js",
+  "es2015": "fesm2015/ngx-default-image.js",
+  "esm5": "esm5/ngx-default-image.js",
+  "esm2015": "esm2015/ngx-default-image.js",
+  "fesm5": "fesm5/ngx-default-image.js",
+  "fesm2015": "fesm2015/ngx-default-image.js",
+  "typings": "ngx-default-image.d.ts",
+  "metadata": "ngx-default-image.metadata.json",
+  "sideEffects": false
+}
